@@ -15,3 +15,10 @@
 <h4>Thoughts:</h4>
 <p>Gone crazy in mathematical proofs for gradient descent but very important to understand why we are doing everything and next sklearn is very easy to use.</p>
 <hr>
+
+<h2>Day 2: 16th August 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Learnt and solved problems on Bayes rule and learnt it's applications. Started developing the mini project on naive bayes.</p>
+<h4>Thoughts:</h4>
+<p>Once J.K.Rowling published a book name under false author name but the computers were able to identify that it was her and it's exciting to know that it can be done using naive bayes.</p>
+<hr>
