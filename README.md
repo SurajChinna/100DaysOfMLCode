@@ -22,3 +22,17 @@
 <h4>Thoughts:</h4>
 <p>Once J.K.Rowling published a book name under false author name but the computers were able to identify that it was her and it's exciting to know that it can be done using naive bayes.</p>
 <hr>
+
+<h2>Day 3: 17th August 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Learnt about McCulloh pits neuron, their advantages and disadvantages and moved on to perceptron and also learnt perceptron algorithm</p>
+<h4>Thoughts:</h4>
+<p>Thought that I could the complete project started on day:2 but I couldn't as the dataset was huge, so learnt moved onto deep learning and learnt the perceptron stuff.</p>
+<hr>
+
+<h2>Day 4: 18th August 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Set up the python 2.7 environment ans finally completed the mini project on naive bayes and acheived an accuracy of 97.32%</p>
+<h4>Thoughts:</h4>
+<p>The dataset was huge and it took much time to download and extract but it is good to do some mini projects as they clear the concepts.</p>
+<hr>
