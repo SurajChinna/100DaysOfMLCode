@@ -36,3 +36,17 @@
 <h4>Thoughts:</h4>
 <p>The dataset was huge and it took much time to download and extract but it is good to do some mini projects as they clear the concepts.</p>
 <hr>
+
+<h2>Day 5: 19th August 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Learnt about linearly saperable boolean functions, Sigmoid neuron, the typical machine learning setup.</p>
+<h4>Thoughts:</h4>
+<p>Understood the need for using sigmoid neuron, and the basic machine learning things needed to solve any problem.</p>
+<hr>
+
+<h2>Day 6: 20th August 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Learnt about feed forward forward neural networks and how to learn the parameters the feed forward neural networks.</p>
+<h4>Thoughts:</h4>
+<p>It's interesting to learn how to apply gradient descent for multilayer neural networks and the proofs.</p>
+<hr>
