@@ -50,3 +50,10 @@
 <h4>Thoughts:</h4>
 <p>It's interesting to learn how to apply gradient descent for multilayer neural networks and the proofs.</p>
 <hr>
+
+<h2>Day 7: 21st August 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Learnt about Entropy, Cross Entropy and their derivations and understood which loss function to choose depending on outputs.</p>
+<h4>Thoughts:</h4>
+<p>The deeper you go into deep learning the more it is confusing. It took so much time to understand the difference between entropy and cross entropy.</p>
+<hr>
