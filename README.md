@@ -57,3 +57,11 @@
 <h4>Thoughts:</h4>
 <p>The deeper you go into deep learning the more it is confusing. It took so much time to understand the difference between entropy and cross entropy.</p>
 <hr>
+
+
+<h2>Day 8: 22nd August 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Learnt the backpropagation intuition and the derivations of the gradent with respect to the output units.</p>
+<h4>Thoughts:</h4>
+<p>Really exciting to know how exaclty backpropagation works with mathematical derivations, but just completed on output layer need to still calculate with respect to hidden layers, weights and biases</p>
+<hr>
