@@ -65,3 +65,34 @@
 <h4>Thoughts:</h4>
 <p>Really exciting to know how exaclty backpropagation works with mathematical derivations, but just completed on output layer need to still calculate with respect to hidden layers, weights and biases</p>
 <hr>
+
+
+<h2>Day 9: 23rd August 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Started learning SVM's in Udacity's Intro to Machine Learning Course..</p>
+<h4>Thoughts:</h4>
+<p>I really have a lot of confusion with SVM's, need to understand them better.</p>
+<hr>
+
+
+<h2>Day 10: 24th August 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Learnt about linear SVM and coded using SKlearn.</p>
+<h4>Thoughts:</h4>
+<p>The linear svm is easy to understand but need to know about several parameters used in it.</p>
+<hr>
+
+<h2>Day 11: 25th August 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Completed learning SVM including non-linear, and also learnt about gamma and C parameter.</p>
+<h4>Thoughts:</h4>
+<p>Interesting to learn about various kernels, started doing a project on SVM.</p>
+<hr>
+
+
+<h2>Day 12: 26th August 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Successfully completed project using SVM, the same project done using naive bayes but svm gives an accuray more than 99%.</p>
+<h4>Thoughts:</h4>
+<p>SVM's really take a lot of time in training but ofcourse gave a good accuracy.</p>
+<hr>
