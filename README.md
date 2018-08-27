@@ -96,3 +96,10 @@
 <h4>Thoughts:</h4>
 <p>SVM's really take a lot of time in training but ofcourse gave a good accuracy.</p>
 <hr>
+
+<h2>Day 13: 27th August 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Started learning Decision trees from Udacity's Intro to Machine Learning course, learnt about basic decision tree and coded using skklearn.</p>
+<h4>Thoughts:</h4>
+<p>Decision trees are more prone to overfitting, need to learn if there is any way to reduce that.</p>
+<hr>
