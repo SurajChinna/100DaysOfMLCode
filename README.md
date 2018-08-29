@@ -103,3 +103,17 @@
 <h4>Thoughts:</h4>
 <p>Decision trees are more prone to overfitting, need to learn if there is any way to reduce that.</p>
 <hr>
+
+<h2>Day 14: 28th August 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Learnt about Entropy, Information Gain, Bias and Variance. Started building the project on Decision Trees</p>
+<h4>Thoughts:</h4>
+<p>Understood decision trees very clearly, they are just simple like if else blocks.</p>
+<hr>
+
+<h2>Day 15: 29th August 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Successfully completed the project on Decision trees(the same project done using naive bayes) and got an accuracy of 97%</p>
+<h4>Thoughts:</h4>
+<p>Decision trees might be overfitting if we have more features, but in general gives good results</p>
+<hr>
