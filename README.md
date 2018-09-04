@@ -117,3 +117,41 @@
 <h4>Thoughts:</h4>
 <p>Decision trees might be overfitting if we have more features, but in general gives good results</p>
 <hr>
+
+
+
+<h2>Day 15: 30th August 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Intersted in developing a project on Breast cancer prediction, so started learning Flask to build backend</p>
+<h4>Thoughts:</h4>
+<p>Flask is very easy to learn and yet powerful, learnt basics quickly</p>
+<hr>
+
+
+
+<h2>Day 15: 31th August 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Started working on Breast cancer prediction, collected the data and done some preprocessing</p>
+<h4>Thoughts:</h4>
+<p>Lucky that most of the data is good, so made it easy to process</p>
+<hr>
+
+
+
+<h2>Day 15: 1st September 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Built complte Prediction using SVM and also built an API to make the requests to server</p>
+<h4>Thoughts:</h4>
+<p>Too complex in this step, tried with ANN but it is over fitting the model so used SVM</p>
+<hr>
+
+
+
+<h2>Day 15: 2nd September 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Successfully completed the project including the frontend with bootstrap, working great and yields an accuracy of more than 98%</p>
+<h4>Thoughts:</h4>
+<p>It was really a wonderful experience to build the complete project. so happy</p>
+<h4>Link to Work:</h4>
+<p>https://github.com/SurajChinna/Breast-Cancer-Prediction<p>
+<hr>
