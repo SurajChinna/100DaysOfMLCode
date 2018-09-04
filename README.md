@@ -134,6 +134,8 @@
 <p>Started working on Breast cancer prediction, collected the data and done some preprocessing</p>
 <h4>Thoughts:</h4>
 <p>Lucky that most of the data is good, so made it easy to process</p>
+<h4>Link to Data:</h4>
+<p>https://www.kaggle.com/uciml/breast-cancer-wisconsin-data</p>
 <hr>
 
 
