@@ -120,7 +120,7 @@
 
 
 
-<h2>Day 15: 30th August 2018</h2>
+<h2>Day 16: 30th August 2018</h2>
 <h4>Todays Progress:</h4>
 <p>Intersted in developing a project on Breast cancer prediction, so started learning Flask to build backend</p>
 <h4>Thoughts:</h4>
@@ -129,7 +129,7 @@
 
 
 
-<h2>Day 15: 31th August 2018</h2>
+<h2>Day 17: 31th August 2018</h2>
 <h4>Todays Progress:</h4>
 <p>Started working on Breast cancer prediction, collected the data and done some preprocessing</p>
 <h4>Thoughts:</h4>
@@ -138,7 +138,7 @@
 
 
 
-<h2>Day 15: 1st September 2018</h2>
+<h2>Day 18: 1st September 2018</h2>
 <h4>Todays Progress:</h4>
 <p>Built complte Prediction using SVM and also built an API to make the requests to server</p>
 <h4>Thoughts:</h4>
@@ -147,7 +147,7 @@
 
 
 
-<h2>Day 15: 2nd September 2018</h2>
+<h2>Day 19: 2nd September 2018</h2>
 <h4>Todays Progress:</h4>
 <p>Successfully completed the project including the frontend with bootstrap, working great and yields an accuracy of more than 98%</p>
 <h4>Thoughts:</h4>
