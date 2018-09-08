@@ -157,3 +157,28 @@
 <h4>Link to Work:</h4>
 <p>https://github.com/SurajChinna/Breast-Cancer-Prediction<p>
 <hr>
+
+
+<h2>Day 20: 3rd September 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Started building a project that could predict the relationship between two sentences of a paragraph and returns the percentage using wordnet</p>
+<h4>Thoughts:</h4>
+<p>I really know nothing about nltk and wordnet but still trying to build a project</p>
+<hr>
+
+<h2>Day 21: 4th September 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Woo! Successfully completed the project but that is not accurate but doing well</p>
+<h4>Thoughts:</h4>
+<p>Felt really tough to jump into project without knowing anythig but somehow managed to complete.</p>
+<h4>Link to Work:</h4>
+<p>https://github.com/SurajChinna/Breast-Cancer-Prediction<p>
+<hr>
+
+
+<h2>Day 22: 5th September 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Learnt the basic concepts of KNN and how it works</p>
+<h4>Thoughts:</h4>
+<p>KNN is pretty easy just some math.</p>
+<hr>
