@@ -208,3 +208,10 @@
 <p>Just looked how and where the regression is used.</p>
 <hr>
 
+<h2>Day 26: 9th September 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Learnt in greater detail about regression, various evaluation metrics and differences between regression and classification.</p>
+<h4>Thoughts:</h4>
+<p>Regression is pretty easy but learnt only linear regression</p>
+<hr>
+
