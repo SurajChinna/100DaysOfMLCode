@@ -182,3 +182,29 @@
 <h4>Thoughts:</h4>
 <p>KNN is pretty easy just some math.</p>
 <hr>
+
+
+<h2>Day 23: 6th September 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Back into Udacity's Intro to Machine Learning course, started lesson datasets and learning about enron</p>
+<h4>Thoughts:</h4>
+<p>Enron was a huge organisation that went bankrupt and it is interesting to study the reasons of failure</p>
+<hr>
+
+
+<h2>Day 24: 7th September 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Just analysed the data-set of enron and various features</p>
+<h4>Thoughts:</h4>
+<p>Finally, done with enron and need to start Regression</p>
+<hr>
+
+
+
+<h2>Day 25: 8th September 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Started the lesson regression.</p>
+<h4>Thoughts:</h4>
+<p>Just looked how and where the regression is used.</p>
+<hr>
+
