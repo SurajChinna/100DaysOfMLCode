@@ -215,3 +215,18 @@
 <p>Regression is pretty easy but learnt only linear regression</p>
 <hr>
 
+<h2>Day 27: 10th September 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Learnt evaluation metrics in Regression, and completed a small project that could fit the line between age and salary.</p>
+<h4>Thoughts:</h4>
+<p>Project was good but there were some outliers that disturbed the line so need to learn about outliers</p>
+<hr>
+
+
+<h2>Day 28: 11th September 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Learnt some basic stuff about outliers and a simple algo to remove them.</p>
+<h4>Thoughts:</h4>
+<p>Outliers are really disturbing..need to do some project</p>
+<hr>
+
