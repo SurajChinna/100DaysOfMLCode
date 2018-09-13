@@ -230,3 +230,9 @@
 <p>Outliers are really disturbing..need to do some project</p>
 <hr>
 
+<h2>Day 29: 12th September 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Learnt and Written a Small practical code to identify and also remove outliers.</p>
+<h4>Thoughts:</h4>
+<p>It's a good experience to check and remove the outliers.</p>
+<hr>
