@@ -244,3 +244,11 @@
 <h4>Thoughts:</h4>
 <p>KMeans is really basic but it makes a lot of mistakes due to initialisiations of centroids.</p>
 <hr>
+
+
+<h2>Day 31: 14th September 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Got more idea about KMeans and completed the mini project in clustering.</p>
+<h4>Thoughts:</h4>
+<p>need to learn feature scaling.</p>
+<hr>
