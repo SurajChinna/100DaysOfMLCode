@@ -236,3 +236,11 @@
 <h4>Thoughts:</h4>
 <p>It's a good experience to check and remove the outliers.</p>
 <hr>
+
+
+<h2>Day 30: 13th September 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Understood the KMeans algorithm for clustering and its limitations.</p>
+<h4>Thoughts:</h4>
+<p>KMeans is really basic but it makes a lot of mistakes due to initialisiations of centroids.</p>
+<hr>
