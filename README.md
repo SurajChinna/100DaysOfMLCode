@@ -252,3 +252,19 @@
 <h4>Thoughts:</h4>
 <p>need to learn feature scaling.</p>
 <hr>
+
+
+<h2>Day 32: 15th September 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Started Feature Scaling lesson in Udacity's Intro to Machine Learning course. Learnt what is feature scaling and it's implementation in sklearn</p>
+<h4>Thoughts:</h4>
+<p>Found feature scaling as a very important step for some algorithms like SVM and KMeans clustering.</p>
+<hr>
+
+
+<h2>Day 33: 16th September 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Learnt when to apply feature scaling and completed the mini project on feature scaling</p>
+<h4>Thoughts:</h4>
+<p>Feature scaling can be confusing but pretty interesting.</p>
+<hr>
