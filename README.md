@@ -268,3 +268,11 @@
 <h4>Thoughts:</h4>
 <p>Feature scaling can be confusing but pretty interesting.</p>
 <hr>
+
+
+<h2>Day 34: 17th September 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Started Text Learning lesson in Udacity and learnt about bag of words and how to represent them in sklearn</p>
+<h4>Thoughts:</h4>
+<p>It's really hard to deal with language and a lot of confusion. I have to dig deeper</p>
+<hr>
