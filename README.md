@@ -276,3 +276,27 @@
 <h4>Thoughts:</h4>
 <p>It's really hard to deal with language and a lot of confusion. I have to dig deeper</p>
 <hr>
+
+
+<h2>Day 35: 18th September 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Learnt about stemmers and also learnt how to use them in sklearn and implemented SnowballStemmer</p>
+<h4>Thoughts:</h4>
+<p>feeling confident as going more into text learning</p>
+<hr>
+
+
+<h2>Day 36: 19th September 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Learnt about tfidf representation and saw how to implement in sklearn and starting a project in text learning</p>
+<h4>Thoughts:</h4>
+<p>Need to apply all learnt concepts in project</p>
+<hr>
+
+
+<h2>Day 37: 20th September 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Completed the project successfully that takes a email and does the preprocessing </p>
+<h4>Thoughts:</h4>
+<p>Need to learn more in nltk. so wanted to start nltk tutorials on youtube</p>
+<hr>
