@@ -300,3 +300,11 @@
 <h4>Thoughts:</h4>
 <p>Need to learn more in nltk. so wanted to start nltk tutorials on youtube</p>
 <hr>
+
+
+<h2>Day 38: 21st September 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Learnt about word tokenizers, sentence tokenizers and stop words in nltk</p>
+<h4>Thoughts:</h4>
+<p>Got interested in nltk, so started youtube videos from sentdex. They are really cool!!</p>
+<hr>
