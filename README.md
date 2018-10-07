@@ -343,3 +343,11 @@
 <h4>Thoughts:</h4>
 <p>Lemmatizing looks better than stemming and working with huge corpora is good</p>
 <hr>
+
+
+<h2>Day 43: 26th September 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Learnt about wordnet, to get synonyms and antonyms of word, to get definitions and examples and also computing the similarity of two words using wordnet</p>
+<h4>Thoughts:</h4>
+<p>Wordnet is huge and got confused between synsets and lemmas but very useful in nlp and we can do a lot with wordnet</p>
+<hr>
