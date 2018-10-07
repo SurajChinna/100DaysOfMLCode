@@ -322,7 +322,15 @@
 
 <h2>Day 40: 23rd September 2018</h2>
 <h4>Todays Progress:</h4>
-<p>Learnt about Chunking and Chinking and some regular expressions</p>
+<p>Learnt about Chunking and Chinking and some regular expressions and done name phrase chunking on some text</p>
 <h4>Thoughts:</h4>
 <p>It's really confusing to learn chunking, took too much time, and hard to understand regular expressions. But anyway understood some good concepts</p>
+<hr>
+
+
+<h2>Day 41: 24th September 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Studied a lot about Named Entity recognition, implemented that, and read about IOB representations</p>
+<h4>Thoughts:</h4>
+<p>Named Entity Recognition is very important but sometimes it misclassifies the tags. may be I should learn spaCy in some free time</p>
 <hr>
