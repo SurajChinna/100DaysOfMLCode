@@ -317,3 +317,12 @@
 <h4>Thoughts:</h4>
 <p>Getting so much interest in NLP, with the concepts learnt will do a project on creating a dictionary and part of speech tagging using PyQt</p>
 <hr>
+
+
+
+<h2>Day 40: 23rd September 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Learnt about Chunking and Chinking and some regular expressions</p>
+<h4>Thoughts:</h4>
+<p>It's really confusing to learn chunking, took too much time, and hard to understand regular expressions. But anyway understood some good concepts</p>
+<hr>
