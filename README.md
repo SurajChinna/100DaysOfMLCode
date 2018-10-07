@@ -334,3 +334,12 @@
 <h4>Thoughts:</h4>
 <p>Named Entity Recognition is very important but sometimes it misclassifies the tags. may be I should learn spaCy in some free time</p>
 <hr>
+
+
+
+<h2>Day 42: 25th September 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Understood how to use different corpora and learnt about lemmatizing</p>
+<h4>Thoughts:</h4>
+<p>Lemmatizing looks better than stemming and working with huge corpora is good</p>
+<hr>
