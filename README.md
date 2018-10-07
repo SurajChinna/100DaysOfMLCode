@@ -308,3 +308,12 @@
 <h4>Thoughts:</h4>
 <p>Got interested in nltk, so started youtube videos from sentdex. They are really cool!!</p>
 <hr>
+
+
+
+<h2>Day 39: 22nd September 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Learnt about Stemming and used Porter stemmer and next learnt part of speech tagging</p>
+<h4>Thoughts:</h4>
+<p>Getting so much interest in NLP, with the concepts learnt will do a project on creating a dictionary and part of speech tagging using PyQt</p>
+<hr>
