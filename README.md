@@ -351,3 +351,19 @@
 <h4>Thoughts:</h4>
 <p>Wordnet is huge and got confused between synsets and lemmas but very useful in nlp and we can do a lot with wordnet</p>
 <hr>
+
+
+<h2>Day 44: 27th September 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Started doing the project of movie review classification whether positive or negative. completed some portion of importing and storing in lists</p>
+<h4>Thoughts:</h4>
+<p>Excited in doing projects as most of the learning happens there</p>
+<hr>
+
+
+<h2>Day 45: 28th September 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Completed the projet of movie review classification using NaiveBayes and pickled the classifier. Getting an accuracy of nearly 80</p>
+<h4>Thoughts:</h4>
+<p>Now feeling that I have to do more and more projects in NLP</p>
+<hr>
