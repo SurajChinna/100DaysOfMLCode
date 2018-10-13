@@ -367,3 +367,19 @@
 <h4>Thoughts:</h4>
 <p>Now feeling that I have to do more and more projects in NLP</p>
 <hr>
+
+
+<h2>Day 46: 29th September 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Started doing real world project on movie review classification and got data from IMDB. just cleaned the data and arranged</p>
+<h4>Thoughts:</h4>
+<p>Wanted to do this project more user friendly and easy to use.</p>
+<hr>
+
+
+<h2>Day 47: 30th September 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Formatted data according to required format and removed the useless words and cleaned the data.</p>
+<h4>Thoughts:</h4>
+<p>The most toughest job is data cleaning and successfully completed that. next need to train and test on data</p>
+<hr>
