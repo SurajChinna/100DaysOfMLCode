@@ -386,7 +386,7 @@
 
 
 
-<h2>Day 47: 30th September 2018</h2>
+<h2>Day 48: 1st October 2018</h2>
 <h4>Todays Progress:</h4>
 <p>Revised and learnt some concepts in numpy and pandas from youtube videos.</p>
 <h4>Thoughts:</h4>
