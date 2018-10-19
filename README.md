@@ -388,7 +388,15 @@
 
 <h2>Day 48: 1st October 2018</h2>
 <h4>Todays Progress:</h4>
-<p>Revised and learnt some concepts in numpy and pandas from youtube videos.</p>
+<p>Revised and learnt some concepts in numpy from youtube videos.</p>
 <h4>Thoughts:</h4>
 <p>Text classification is under process and without wasting time I wanted to start another machine learning tutorial.</p>
+<hr>
+
+
+<h2>Day 49: 2nd October 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Started learning pandas from <a href="https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy">here</a>. Completed learning DataFrame basics, ways of creating data frames and different functions to read and write csv and excel files</p>
+<h4>Thoughts:</h4>
+<p>As pandas is very important in data analysis, started learning it in depth.</p>
 <hr>
