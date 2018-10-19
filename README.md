@@ -400,3 +400,11 @@
 <h4>Thoughts:</h4>
 <p>As pandas is very important in data analysis, started learning it in depth.</p>
 <hr>
+
+
+<h2>Day 50: 3rd October 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Learnt how to handle missing data and various methods to handle them, to use replace function to replace special characters</p>
+<h4>Thoughts:</h4>
+<p>Now feeling confident as I have completed handling missing data as it is the most important in data munging but still have so much to study in pandas.</p>
+<hr>
