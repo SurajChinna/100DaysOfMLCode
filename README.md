@@ -408,3 +408,11 @@
 <h4>Thoughts:</h4>
 <p>Now feeling confident as I have completed handling missing data as it is the most important in data munging but still have so much to study in pandas.</p>
 <hr>
+
+
+<h2>Day 51: 4th October 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Learnt how to handle missing data using sklearn's Imputer, and also how to encode categorical data using sklearn</p>
+<h4>Thoughts:</h4>
+<p>Getting into Data preprocessing so that I can use these in future machine learning models and still have so much to study in Data Preprocessing</p>
+<hr>
