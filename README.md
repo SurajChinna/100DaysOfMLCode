@@ -416,3 +416,11 @@
 <h4>Thoughts:</h4>
 <p>Getting into Data preprocessing so that I can use these in future machine learning models and still have so much to study in Data Preprocessing</p>
 <hr>
+
+
+<h2>Day 52: 5th October 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Studied about feature scaling like standardisation and normalization and learnt how to implement them in sklearn and also learnt how to split the test and train data</p>
+<h4>Thoughts:</h4>
+<p>Completed most of the steps in data preprocessing and got ready for starting machine learning topics</p>
+<hr>
