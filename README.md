@@ -446,3 +446,10 @@
 <h4>Thoughts:</h4>
 <p>Took so much time to understand, as these concepts are very complex.</p>
 <hr>
+
+<h2>Day 56: 9th October 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Successfully completed the project on Multiple Linear Regression, that could predict the profit of a start up based on the amount they have spent on marketing, R&D etc.</p>
+<h4>Thoughts:</h4>
+<p>Project is working fine, but need to use backward elimination to eliminate the preditors that are not very important</p>
+<hr>
