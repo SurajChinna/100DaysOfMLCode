@@ -453,3 +453,11 @@
 <h4>Thoughts:</h4>
 <p>Project is working fine, but need to use backward elimination to eliminate the preditors that are not very important</p>
 <hr>
+
+
+<h2>Day 57: 10th October 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Hurray!! Used backward elimination to eliminate the features that are statistically less significant. Now predicted results are more closer to the actual results</p>
+<h4>Thoughts:</h4>
+<p>Backward elimination was very confusing, but after watching lot of tutorials finally got good understanding of that. and yeah successfully completed the project.</p>
+<hr>
