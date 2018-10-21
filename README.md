@@ -424,3 +424,11 @@
 <h4>Thoughts:</h4>
 <p>Completed most of the steps in data preprocessing and got ready for starting machine learning topics</p>
 <hr>
+
+
+<h2>Day 53: 6th October 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Learnt the Simple Linear Regression and also completed the project predcting the salaries based on years of experience</p>
+<h4>Thoughts:</h4>
+<p>Super excited to start ML from basics, and completed the project, need to learn about more Regression Models</p>
+<hr>
