@@ -435,7 +435,7 @@
 
 <h2>Day 54: 7th October 2018</h2>
 <h4>Todays Progress:</h4>
-<p>Learnt about Multiple Linear Regression, Homoscedasticity and Multicollinearity</p>
+<p>Learnt about Multiple Linear Regression, Homoscedasticity, Multicollinearity and Dummy variable trap</p>
 <h4>Thoughts:</h4>
 <p>studied a lot of theory regarding MLR, now need to start a project</p>
 <hr>
