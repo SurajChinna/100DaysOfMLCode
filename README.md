@@ -439,3 +439,10 @@
 <h4>Thoughts:</h4>
 <p>studied a lot of theory regarding MLR, now need to start a project</p>
 <hr>
+
+<h2>Day 55: 8th October 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Learnt about methods of building a model, like backward eliminaton, forward selection, bidirectional elimination</p>
+<h4>Thoughts:</h4>
+<p>Took so much time to understand, as these concepts are very complex.</p>
+<hr>
