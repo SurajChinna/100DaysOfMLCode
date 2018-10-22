@@ -461,3 +461,19 @@
 <h4>Thoughts:</h4>
 <p>Backward elimination was very confusing, but after watching lot of tutorials finally got good understanding of that. and yeah successfully completed the project.</p>
 <hr>
+
+
+<h2>Day 58: 11th October 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Learnt Polynomial Regression and learnt how to use it with linear regression, completed the project on predicting the salary of employee based on their level using Polynomial Regression</p>
+<h4>Thoughts:</h4>
+<p>Polynomial regression is just slight extention of multiple linear regression but quite useful as real world data is not linear.</p>
+<hr>
+
+
+<h2>Day 59: 12th October 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Studied about Support Vector Regression and completed the project that could predict the salary of employee based their level</p>
+<h4>Thoughts:</h4>
+<p>SVR was very easy to understand and implement but a bit confusing in gamma and C parameters</p>
+<hr>
