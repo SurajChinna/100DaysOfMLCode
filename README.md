@@ -514,3 +514,11 @@
 <h4>Thoughts:</h4>
 <p>KNN got more accuracy because it is non linear model, and hence quite useful.</p>
 <hr>
+
+
+<h2>Day 65: 18th October 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Completed learning about linear SVM and also done the same project as logistic regression and got an accuracy of 90%</p>
+<h4>Thoughts:</h4>
+<p>Accuracy was quite low because I have used linear SVM, will study about various kernels and try to improve that</p>
+<hr>
