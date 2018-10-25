@@ -507,3 +507,10 @@
 <h4>Thoughts:</h4>
 <p>Doing projects is more interesting, and next going to study about KNN classifier</p>
 <hr>
+
+<h2>Day 64: 17th October 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Learnt about knn classifier and completed the project same project as logistic regression but got an accuracy of 93%</p>
+<h4>Thoughts:</h4>
+<p>KNN got more accuracy because it is non linear model, and hence quite useful.</p>
+<hr>
