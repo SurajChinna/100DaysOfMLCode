@@ -477,3 +477,18 @@
 <h4>Thoughts:</h4>
 <p>SVR was very easy to understand and implement but a bit confusing in gamma and C parameters</p>
 <hr>
+
+<h2>Day 60: 13th October 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Studied about Decision tree regression and also completed the project that could predict the salary of employee based on their position level using Decision Tree Regression</p>
+<h4>Thoughts:</h4>
+<p>Decision tree is not giving very accurate results and hence need to learn some ensemble methods</p>
+<hr>
+
+
+<h2>Day 61: 14th October 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Studied about Random forest regression regression and also completed the project that could predict the salary of employee based on their position level using Random Forest Regression</p>
+<h4>Thoughts:</h4>
+<p>Hmm..The accuracy has increased compared to Normal Decision trees and is very robust.</p>
+<hr>
