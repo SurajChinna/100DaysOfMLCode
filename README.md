@@ -492,3 +492,18 @@
 <h4>Thoughts:</h4>
 <p>Hmm..The accuracy has increased compared to Normal Decision trees and is very robust.</p>
 <hr>
+
+<h2>Day 62: 15th October 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Learnt about Logistic Regression and the mathematical changes from linear regression and also the evaluation metrics for classification problems.</p>
+<h4>Thoughts:</h4>
+<p>Moving from Regression to Classification, started logistic regression and completed the theory and next will do a project.</p>
+<hr>
+
+
+<h2>Day 63: 16th October 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Successfully completed the project that classifies the users whether they will buy SUV based on their age and salary, gives and accuracy of 89%</p>
+<h4>Thoughts:</h4>
+<p>Doing projects is more interesting, and next going to study about KNN classifier</p>
+<hr>
