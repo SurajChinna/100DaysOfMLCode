@@ -522,3 +522,19 @@
 <h4>Thoughts:</h4>
 <p>Accuracy was quite low because I have used linear SVM, will study about various kernels and try to improve that</p>
 <hr>
+
+<h2>Day 66: 19th October 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Completed the project on diabetes classification using KNN, but the model is giving low accuracy and needs to handle data carefully</p>
+<h4>Thoughts:</h4>
+<p>Handling the data and trying to build with other models too</p>
+<hr>
+
+<h2>Day 67: 20th October 2018</h2>
+<h4>Todays Progress:</h4>
+<p>YaY!! Successfully completed the project and working great with an accuracy of nearly 81% using Logistic Regression</p>
+<h4>Thoughts:</h4>
+<p>Data had no null values but has zero values so handled them and used Logistic Regression which is giving good accuracy</p>
+<h4>Link to Work:</h4>
+<p><a href="https://github.com/SurajChinna/Diabetes-Classification">GitHub Page</a></p>
+<hr>
