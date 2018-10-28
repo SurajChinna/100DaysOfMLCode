@@ -538,3 +538,21 @@
 <h4>Link to Work:</h4>
 <p><a href="https://github.com/SurajChinna/Diabetes-Classification">GitHub Page</a></p>
 <hr>
+
+<h2>Day 68: 21st October 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Learnt about various kernels in SVM like rbf, sigmoid and polynomial. Understood the kernel trick and how non linear classification is done</p>
+<h4>Thoughts:</h4>
+<p>Understood the concepts and now improving the project that was done using linear SVM</p>
+<hr>
+
+
+
+<h2>Day 69: 22nd October 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Included the kernel SVM file for the previous repo. kernel SVM with rbf kernel gives great accuracy of 93%</p>
+<h4>Thoughts:</h4>
+<p>The kernel SVM works great but is really broad and complex. confused with various kernels but understood basic kernels</p>
+<h4>Link to Work:</h4>
+<p><a href="https://github.com/SurajChinna/SVM-for-classification-using-social-media-ads">GitHub Repo</a></p>
+<hr>
