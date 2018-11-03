@@ -556,3 +556,31 @@
 <h4>Link to Work:</h4>
 <p><a href="https://github.com/SurajChinna/SVM-for-classification-using-social-media-ads">GitHub Repo</a></p>
 <hr>
+
+<h2>Day 70: 23rd October 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Studied the intuition behing Naive Bayes algorithm and solved some problems using the bayes formula.</p>
+<h4>Thoughts:</h4>
+<p>Now clearly understood the working of Naive Bayes and next going to code that out.</p>
+<hr>
+
+<h2>Day 71: 24th October 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Completed the project of classification using Naive Bayes and got an accuracy of 91%.</p>
+<h4>Thoughts:</h4>
+<p>Naive bayes is naive but it really works great for the classification using social media ads project.</p>
+<hr>
+
+<h2>Day 72: 25th October 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Understood the intuition beging decision tree classifier and also completed the project of classification and got an accuracy of 91%</p>
+<h4>Thoughts:</h4>
+<p>Decision trees are too old but works good and gives good accuracy but will imporove the efficiency using ensemble methods</p>
+<hr>
+
+<h2>Day 73: 26th October 2018</h2>
+<h4>Todays Progress:</h4>
+<p>Learnt about ensemble learning, Random forest classifier and also completed the same project of classification using Random Forest Classifier.</p>
+<h4>Thoughts:</h4>
+<p>Hmm.. Random forest does a good job and gives an accuracy of 92% and next need to learn about improving the classification models</p>
+<hr>
